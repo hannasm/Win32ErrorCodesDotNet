@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Win32ErrorCodesDotNet</PackageId>
+    <Version>1.0.0.0</Version>
+    <Authors>various?</Authors>
+    <RepositoryUrl>https://github.com/hannasm/Win32ErrorCodesDotNet</RepositoryUrl>
+    <Description>This package contains a class global::Microsoft.Win32.Interop.WinError that defines the same error codes that would be found in some 2005 era version of winerror.h. It was copy pasted from some dead website on some obscure place on the internet and has no license, you can choose to use it at your own risk.</Description>
+  </PropertyGroup>
+
+</Project>
